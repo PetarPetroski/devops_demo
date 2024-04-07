@@ -10,3 +10,4 @@ For this assignment I want you to watch the following two videos and create your
 ## Screenshots
 
 1.  Put the screenshot of your image in your Docker account here.
+2.  ![image](https://github.com/PetarPetroski/devops_demo/assets/45236464/4ccf3907-1dde-40ac-9e54-83b5801d3137)
